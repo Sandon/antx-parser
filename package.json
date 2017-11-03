@@ -1,6 +1,6 @@
 {
-  "name": "@wag/antx-parser",
-  "version": "0.0.13",
+  "name": "antx-parser",
+  "version": "0.0.2",
   "description": "parse antx property file",
   "author": {
     "name": "Sandon"

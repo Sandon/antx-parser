@@ -2,7 +2,7 @@
 
 ## Usage
 
-    import AntxParser from '@wag/antx-parser'
+    import AntxParser from 'antx-parser'
     let antxParser = new AntxParser
 
     // init
